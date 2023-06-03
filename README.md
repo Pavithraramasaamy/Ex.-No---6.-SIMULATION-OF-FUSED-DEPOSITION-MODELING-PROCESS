@@ -23,7 +23,6 @@
 ## Output:
 ![image](https://github.com/Pavithraramasaamy/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118596964/48e6ce49-a494-4e4c-add5-b43a07d27b76)
 
-```
 BASE:
 A base or a build plate is an essential component in the FDM process. It serves as the foundation on which the object is built layer by layer. The base is typically a flat surface that provides stability and adhesion for the printed part during the printing process.
 
@@ -36,7 +35,7 @@ the material spool refers to the cylindrical spool or reel that holds the thermo
 FILAMENT:
 filament refers to the thermoplastic material that is used as the raw material for 3D printing.
 
-##START PROCESS:
+## START PROCESS:
 Prepare the 3D Model:
 Begin by creating or obtaining a 3D model of the object you want to print. This can be done using computer-aided design (CAD) software or by downloading pre-designed models from online repositories.
 
@@ -67,7 +66,7 @@ During the printing process, keep an eye on the progress to ensure that everythi
 Post-Processing:
 Once the print is complete, allow the object to cool down before removing it from the print bed. Depending on the filament and desired finish, you may need to perform additional post-processing steps, such as removing support structures, sanding, painting, or other surface treatments.
 
-##STOP PROCESS:
+## STOP PROCESS:
 Pause the Print: 
 If you need to temporarily stop the printing process, most 3D printers have a pause function. Use the printer's control panel or software interface to pause the print. This will halt the extrusion of filament and movement of the print head.
 
@@ -88,7 +87,6 @@ Once the print has been canceled or completed, it's good practice to power down 
 
 Clean Up:
 Clean the print bed and remove any remaining filament from the extruder, especially if you don't plan to start another print immediately. Store the filament properly, either by returning it to the spool or using filament storage containers to protect it from moisture and dust.
-```
 
 ### Name:PAVITHRA R
 ### Register Number:212222230106
