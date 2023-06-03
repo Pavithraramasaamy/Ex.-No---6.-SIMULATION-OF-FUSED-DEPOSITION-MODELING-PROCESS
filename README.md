@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 25.05.2023
+## DATE:
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -23,7 +23,7 @@
 ## Output:
 ![image](https://github.com/Pavithraramasaamy/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118596964/48e6ce49-a494-4e4c-add5-b43a07d27b76)
 
-
+```
 BASE:
 A base or a build plate is an essential component in the FDM process. It serves as the foundation on which the object is built layer by layer. The base is typically a flat surface that provides stability and adhesion for the printed part during the printing process.
 
@@ -88,7 +88,7 @@ Once the print has been canceled or completed, it's good practice to power down 
 
 Clean Up:
 Clean the print bed and remove any remaining filament from the extruder, especially if you don't plan to start another print immediately. Store the filament properly, either by returning it to the spool or using filament storage containers to protect it from moisture and dust.
-
+```
 
 ### Name:PAVITHRA R
 ### Register Number:212222230106
